@@ -18,4 +18,4 @@ Melatih keterampilan dasar statistik dan Python dalam menghitung:
 
 Contoh grafik dari data:
 
-![Contoh Visualisasi](images/mean_plot.png)
+![Contoh Visualisasi](images/mean_plot.jpeg)
