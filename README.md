@@ -13,3 +13,9 @@ Melatih keterampilan dasar statistik dan Python dalam menghitung:
 - Modus (Nilai yang paling sering muncul)
 - Varians dan Standar Deviasi
 - Visualisasi data sederhana
+
+## 📈 Visualisasi
+
+Contoh grafik dari data:
+
+![Contoh Visualisasi](images/mean_plot.png)
