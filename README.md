@@ -1,5 +1,5 @@
 # statistika-harian
-Latihan statistik dasar pakai pyhton
+Latihan statistik dasar menggunakan pyhton
 # 📊 Dasar-dasar Statistik untuk Data Analysis
 
 Fokus utama pada pemahaman statistik dasar untuk analisis data, visualisasi, dan persiapan machine learning.
